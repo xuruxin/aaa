@@ -1,0 +1,9 @@
+.d{
+	width: 200px;
+	height: 200px;
+	background: red;
+}
+.d>img{
+	width: 200px;
+	height: 200px;
+}

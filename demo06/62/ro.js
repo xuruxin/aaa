@@ -1,0 +1,6 @@
+var express = require("express")
+var router = require("./router")
+var app = require()
+app.use(express.static("static"))
+app.use(router)
+app.listen(3000)
